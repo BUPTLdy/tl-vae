@@ -1,2 +1,3 @@
 # tl-vae
-# tl-vae
+TensorLayer
+Variational Autoencoders
