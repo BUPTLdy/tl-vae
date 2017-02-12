@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/ldy/workspace/tl-vae/training/train-9"
+all_model_checkpoint_paths: "/home/ldy/workspace/tl-vae/training/train-8"
+all_model_checkpoint_paths: "/home/ldy/workspace/tl-vae/training/train-9"
